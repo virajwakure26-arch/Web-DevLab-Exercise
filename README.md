@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Programming for Web Development – I Laboratory
 
 ## About This Repository
@@ -107,3 +108,7 @@ Through these practical assignments, I learned:
 ---
 
 *This repository is created for academic learning and practical submission.*
+=======
+# Web-DevLab-Exercise
+web dev lab exercise  given in class
+>>>>>>> aefa6061458239ee987aa051ed68692ed16c5c77
