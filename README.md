@@ -93,6 +93,7 @@ Through these practical assignments, I learned:
 
 ## How to Run the Projects
 
+
 1. Clone or download this repository.
 2. Open the project folder in Visual Studio Code.
 3. Navigate to the required practical folder.
@@ -101,8 +102,8 @@ Through these practical assignments, I learned:
 
 ## Author
 
-**Name:** Arjun Sharma
-**USN:** 2392608255
+**Name:** viraj wakure 
+**USN:** 2392608261
 **Subject:** Programming for Web Development – I Laboratory
 
 ---
